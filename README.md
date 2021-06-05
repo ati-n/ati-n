@@ -1,7 +1,7 @@
 # Hi, I'm Ati <img alt="👋" width="25" height="25" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
   
 I'm a **Computer Science** undergrad student [@ELTE](https://www.elte.hu/en/) 🎓 starting my senior year in 2021, but I'm also a **Medical Doctor** 🩺 still actively practicing.  
-My passion is solving problems, learning and working with new tech. In the future I want to build interesting and amazing products that serve a great deal of purpose: help people with cancer and mental health disorders.
+My passion is solving problems, learning and working with new tech. In the future I want to work on and build amazing softwares that serve a great deal of purpose: help people with cancer and mental health disorders.
 
 ## Some info about me
 + 🔭 I'm currently working on [Transplant.js](https://github.com/ati-n/tx.js) 🫀
