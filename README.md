@@ -9,7 +9,7 @@ My passion is solving problems, I love learning new things and working with new 
 + 🚀 I enjoy working on
   + 💻 Web Apps
   + 🔎 Computer Vision
-  + 👾 MI & AI
+  + 👾 ML & AI
   + and pretty much anything CS and technology 😄
 
 + <img alt="TS" width="20" height="20" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"> My first language was Python 
