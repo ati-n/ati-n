@@ -19,10 +19,12 @@ My passion is solving problems, learning and working with new tech. In the futur
 + Java
 + Python
 + C/C++
++ Node.js
 + Javascript
 + TypeScript
 + HTML5, CSS3
 + MySQL
++ OpenCV
 + Git
 + Maven
 + JUnit
