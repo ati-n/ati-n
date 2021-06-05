@@ -7,10 +7,8 @@ My passion is solving problems, I love learning new things and working with new 
 + 🔭 I'm currently working on 🫀[Transplant.js](https://github.com/ati-n/tx.js) <img alt="TX" width="20" height="20" src="https://github.com/ati-n/tx.js/blob/main/tx-logo.svg">
 + 📚 I'm currently learning Machine Learning & AI 🤖 
 + 🚀 I enjoy working on
-  + 
   + 💻 Web Apps
   + 🔎 Computer Vision
-  + 🧮 Computational Theory
   + 👾 MI & AI
   + and pretty much anything Computer Science 😄
 
