@@ -10,10 +10,13 @@ My passion is solving problems, I love learning new things and working with new 
   + 💻 Web Apps
   + 🔎 Computer Vision
   + 👾 MI & AI
-  + and pretty much anything Computer Science 😄
+  + and pretty much anything CS and technology 😄
 
-+ My first language was Python <img alt="TS" width="20" height="20" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg">
-+ My current favorite language is TypeScript <img alt="TS" width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png">
++ <img alt="TS" width="20" height="20" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"> My first language was Python 
++ <img alt="TS" width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png"> My current favorite language is TypeScript 
+
++ 🧬 I'm looking for opportunities to learn all things **Healthcare & Technology**
++ 📫 Contact me through [e-mail](mailto:atn86490@gmail.com)
 
 
 
@@ -31,10 +34,13 @@ My passion is solving problems, I love learning new things and working with new 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 20px" src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit5" height="50" />  
+<img style="margin: 10px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.a8fdca0c23.svg" alt="Jest" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+
 </div>
 <br />
 
