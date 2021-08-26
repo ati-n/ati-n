@@ -1,6 +1,6 @@
 # Hi, I'm Ati <img alt="👋" width="29" height="29" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
   
-I'm a **Computer Science** undergrad student 🎓[@ELTE](https://www.elte.hu/en/) starting my senior year in 2021 and I'm also a **Medical Doctor** 🩺 still actively practicing.  
+I'm a **Computer Science** undergrad student 🎓[@ELTE](https://www.elte.hu/en/) starting my senior year in 2021 and I'm also a 🩺 **Medical Doctor** still actively practicing.  
 My passion is solving problems, I love learning new things and working with new technologies. In the future I want to work on and build amazing softwares that serve a great deal of purpose: help people with cancer and mental health disorders.
 
 ## Some info about me
