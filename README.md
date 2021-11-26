@@ -8,7 +8,7 @@ My passion is solving problems and I love learning new things and working with n
 + 📚 I'm currently learning Machine Learning & AI 🤖 
 + 🚀 I enjoy working on
   + 💻 Web Apps
-  + 🔎 Computer Vision
+  + 🧬 Bioinformatics & Biomedical Informatics
   + 👾 ML & AI
   + and pretty much anything CS and technology 😄
 
