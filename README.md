@@ -7,13 +7,12 @@ My passion is solving problems and I love learning new things and working with n
 + 🔭 I'm currently working on 🫀[Transplant.js](https://github.com/ati-n/tx.js) <img alt="TX" width="20" height="20" src="https://github.com/ati-n/tx.js/blob/main/tx-logo.svg">
 + 📚 I'm currently learning Machine Learning & AI 🤖 
 + 🚀 I enjoy working on
-  + 💻 Web Apps
+  + 💻 Web & Mobile Apps
   + 🧬 Bioinformatics & Biomedical Informatics
   + 👾 ML & AI
   + and pretty much anything CS and technology 😄
 
-+ <img alt="TS" width="20" height="20" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"> My first language was Python 
-+ <img alt="TS" width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png"> My current favorite language is TypeScript 
+🎯 My current favorite language is Dart and the 🐦 Flutter framework. 
 
 + 🧬 I'm looking for opportunities to learn all things **Healthcare & Technology**
 + 📫 Contact me through [e-mail](mailto:atn86490@gmail.com)
